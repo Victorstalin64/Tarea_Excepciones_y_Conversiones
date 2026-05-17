@@ -3,7 +3,7 @@
 Este repositorio contiene la resolución de las cuatro actividades prácticas correspondientes a la Unidad 3 de Programación Orientada a Objetos (POO). El proyecto aborda el control de flujo mediante excepciones (nativas y personalizadas), mecanismos de conversión de tipos de datos (casting implícito/explícito) y manipulación de objetos en una jerarquía de herencia.
 
 ## 🛠️ Tecnologías Utilizadas
-* **Lenguaje:** Java (JDK 17 o superior)
+* **Lenguaje:** Java
 * **IDE de Desarrollo:** IntelliJ IDEA
 * **Conceptos clave:** Try-Catch-Finally, Excepciones Personalizadas, Widening, Narrowing, Upcasting, Downcasting.
 
