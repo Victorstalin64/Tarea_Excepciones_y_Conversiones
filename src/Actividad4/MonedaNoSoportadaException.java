@@ -1,4 +1,7 @@
 package Actividad4;
 
-public class MonedaNoSoportadaException {
+public class MonedaNoSoportadaException extends Exception {
+    public MonedaNoSoportadaException(String mensaje) {
+        super(mensaje);
+    }
 }
